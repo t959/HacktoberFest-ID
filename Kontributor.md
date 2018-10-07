@@ -1,6 +1,4 @@
-# 🔥 HacktoberFest Indonesia 🔥
-
-## Daftar Kontributor
+##🔥 Daftar Kontributor 🔥
 
 #### Nama: [Trio Gempar Surya Giri](https://github.com/triogempar/)
 - Tempat: Cilacap, Jawa Tengah
