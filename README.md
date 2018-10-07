@@ -8,17 +8,14 @@ Tahun lalu, ada 30.000+ orang dari lebih dari 100 negara (tepatnya 119) mengirim
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## Bagaimana Cara Berkontribusi Di Project Ini
-Here are 3 quick and painless ways to contribute to this project:
-
 * Tambahkan Namamu di `Kontributor.md` 
-* Buatlah "Hello, World" Dari Bahasa Pemrograman Yang Kamu Kuasai di `bahasa.md` 
-* Buatlah Program Sederhana Seperti Kalkulator Dari Bahasa Pemrograman Yang Kamu Kuasai di `program.md` 
+* Buatlah "Hello, World" Dari Bahasa Pemrograman Yang Kamu Kuasai di Folder `Bahasa` 
+* Buatlah Program Sederhana Seperti Kalkulator Dari Bahasa Pemrograman Yang Kamu Kuasai di Folder `Program` 
 
 Pilih Salah Satu Atau Pilih Semuanya, Lalu Buatlah Pull Request
 
 ## Tutorial
 
-## Choose from these tasks
 ### 1. Tambahkan Namamu
 Tambahkan Namamu di `Kontributor.md` seperti contoh dibawah ini
 
@@ -29,7 +26,7 @@ Tambahkan Namamu di `Kontributor.md` seperti contoh dibawah ini
 - GitHub: [Nama Akun Github](GitHub link)
 ```
 ### 2. Buatlah `Hello, World!` Script
-Buat File Dengan Nama `hello_world_usernamekamu.xx` di folder `bahasa` Dari Bahasa Pemrograman Yang Kamu Kuasai. Contoh:
+Buat File Dengan Nama `hello_world_usernamekamu.xx` di folder `Bahasa` Dari Bahasa Pemrograman Yang Kamu Kuasai. Contoh:
 
 ```C++
 // LANGUAGE: C++
@@ -49,7 +46,7 @@ int main()
 Beri Nama `hello_world_usernamekamu.xx`. Contoh., `hello_world_triogempar.cpp` or `hello_world_triogempar.py`.
 
 ### 3. Buatlah `Hello, World!` Script
-Buatlah Program Sederhana Atau Kalian Bisa Langsung Mengupload Program Tersebut Seperti Kalkulator Dari Bahasa Pemrograman Yang Kamu Kuasai di `program.md`.
+Buatlah Program Sederhana Atau Kalian Bisa Langsung Mengupload Program Tersebut Seperti Kalkulator Dari Bahasa Pemrograman Yang Kamu Kuasai di Folder `Program`.
 
 Beri Nama `program_usernamekamu.xx`. Contoh., `kalkulator_triogempar.cpp` or `hello_world_triogempar.py`
 
