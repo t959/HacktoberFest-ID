@@ -25,7 +25,7 @@ Tambahkan Namamu di `Kontributor.md` seperti contoh dibawah ini
 - Bio: Sesuatu Tentang Dirimu
 - GitHub: [Nama Akun Github](GitHub link)
 ```
-### 2. Buatlah `Hello, World!` Script
+### 2. Buatlah `Hello, World!`
 Buat File Dengan Nama `hello_world_usernamekamu.xx` di folder `Bahasa` Dari Bahasa Pemrograman Yang Kamu Kuasai. Contoh:
 
 ```C++
@@ -45,7 +45,7 @@ int main()
 
 Beri Nama `hello_world_usernamekamu.xx`. Contoh., `hello_world_triogempar.cpp` or `hello_world_triogempar.py`.
 
-### 3. Buatlah `Hello, World!` Script
+### 3. Buatlah `Program Sederhana`
 Buatlah Program Sederhana Atau Kalian Bisa Langsung Mengupload Program Tersebut Seperti Kalkulator Dari Bahasa Pemrograman Yang Kamu Kuasai di Folder `Program`.
 
 Beri Nama `program_usernamekamu.xx`. Contoh., `kalkulator_triogempar.cpp` or `hello_world_triogempar.py`
