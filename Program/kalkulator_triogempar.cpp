@@ -78,10 +78,7 @@ return 0;
 
 void petunjuk()
 {
-cout << "Nama : Wisudanto Catur Putra Ragil\n";
-cout << "Nim   : 111903102006\n";
-cout << "Prodi  : D3 Teknik Elektronika\n";
-cout << " Universitas Jember\n";
+cout << "Nama : Trio Gempar Surya Giri\n";
 cout << "=======================================================================\n";
 cout << "\t\tPROGRAM CALCULATOR SEDERHANA\t\t\n";
 cout << "'+'= Penjumlahan \n";
