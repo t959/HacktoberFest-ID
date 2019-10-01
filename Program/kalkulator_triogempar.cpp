@@ -8,7 +8,7 @@ void petunjuk();
 
 main ()
 {
-petunjuk(); //tampilkan petunjuk
+petunjuk(); 
 
 double Hasil;
 double Angka;
