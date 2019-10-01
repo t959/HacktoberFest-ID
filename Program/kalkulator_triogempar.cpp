@@ -78,7 +78,7 @@ return 0;
 
 void petunjuk()
 {
-cout << "Nama : Trio Gempar\n";
+cout << "Nama : Trio Gempar Surya Giri\n";
 cout << "=======================================================================\n";
 cout << "\t\tPROGRAM CALCULATOR SEDERHANA\t\t\n";
 cout << "'+'= Penjumlahan \n";
