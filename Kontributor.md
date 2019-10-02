@@ -9,3 +9,8 @@
 - Tempat: Pandeglang, Banten
 - Bio: Jangan lupa buka develoka.com hehe
 - GitHub: [Miftah Mizwar on Github](https://github.com/mizwardomlank/)
+
+#### Nama: [Miftah Mizwar](https://github.com/mizwardomlank/)
+- Tempat: Madiun, Indonesia
+- Bio: Part of cybermantra
+- GitHub: [Evannurr on Github](https://github.com/evannurr/)
