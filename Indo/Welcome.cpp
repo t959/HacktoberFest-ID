@@ -6,6 +6,6 @@ Program to print welcome
 using namespace std;
 
 int main(){
-    cout<<"Welcome to C++";
+    cout<<"Welcome to C++"<<endl<<"Enjoy the programming world"<<endl;
     return 0;
 }
