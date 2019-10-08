@@ -10,7 +10,8 @@
 - Bio: Jangan lupa buka develoka.com hehe
 - GitHub: [Miftah Mizwar on Github](https://github.com/mizwardomlank/)
 
-#### Nama: [Miftah Mizwar](https://github.com/mizwardomlank/)
-- Tempat: Madiun, Indonesia
-- Bio: Part of cybermantra
-- GitHub: [Evannurr on Github](https://github.com/evannurr/)
+#### Nama: [Bram Musuko Panjaitan](https://github.com/bmusuko)
+- Tempat: Bandung, Jawa Barat
+- Bio: Pelajar
+- GitHub: [bmusuko](https://github.com/bmusuko)
+
