@@ -9,3 +9,9 @@
 - Tempat: Pandeglang, Banten
 - Bio: Jangan lupa buka develoka.com hehe
 - GitHub: [Miftah Mizwar on Github](https://github.com/mizwardomlank/)
+
+#### Nama: [Bram Musuko Panjaitan](https://github.com/bmusuko)
+- Tempat: Bandung, Jawa Barat
+- Bio: Pelajar
+- GitHub: [bmusuko](https://github.com/bmusuko)
+
