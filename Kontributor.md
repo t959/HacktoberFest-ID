@@ -15,9 +15,14 @@
 - Bio: Pelajar
 - GitHub: [bmusuko](https://github.com/bmusuko)
 
+#### Nama: [kevin2000141](https://github.com/kevin2000141)
+- Tempat: Bandung, Jawa Barat
+- Bio: Mahasiswa
+- GitHub: [kevin2000141](https://github.com/kevin2000141)
 
 #### Nama: [Rajprakash](https://github.com/rajprakash00)
 - Tempat: Puri, Odisha
 - Bio: Pelajar
 - GitHub: [rajprakash00](https://github.com/rajprakash00)
+
 
