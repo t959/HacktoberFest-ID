@@ -25,4 +25,8 @@
 - Bio: Pelajar
 - GitHub: [rajprakash00](https://github.com/rajprakash00)
 
+#### Nama: [socez](https://github.com/socez)
+- Tempat: Bekasi, Jawa Barat
+- Bio: Pelajar
+- GitHub: [socez](https://github.com/socez)
 
