@@ -30,3 +30,8 @@
 - Bio: Pelajar
 - GitHub: [socez](https://github.com/socez)
 
+#### Nama: [Johanes Boas Badia](https://github.com/boasmarbun)
+- Tempat: Bandung, Jawa Barat
+- Bio: Mahasiswa
+- GitHub: [boasmarbun](https://github.com/boasmarbun)
+
