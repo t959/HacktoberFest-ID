@@ -35,3 +35,8 @@
 - Bio: Mahasiswa
 - GitHub: [boasmarbun](https://github.com/boasmarbun)
 
+=======
+#### Nama: [mamangngecast](https://github.com/mamangngecast)
+- Tempat: Bekasi, Jawa Barat
+- Bio: Pelajar
+- GitHub: [socez](https://github.com/mamangngecast)
