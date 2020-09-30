@@ -53,8 +53,8 @@ Beri Nama `program_usernamekamu.xx`. Contoh., `kalkulator_triogempar.cpp` or `he
 ## Refrensi
 1. [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 2. [https://codelatte.org/hacktoberfest-2018/](https://codelatte.org/hacktoberfest-2018/)
-3. [https://www.petanikode.com/hacktoberfest-2020/](https://www.petanikode.com/hacktoberfest/)
-4. [https://www.codepolitan.com/hacktoberfest-2017/](https://www.codepolitan.com/kirim-empat-pull-request-dan-dapatkan-kaos-keren-di-hacktoberfest-2017-59cfcaa8c86ea/)
+3. [https://www.petanikode.com/hacktoberfest](https://www.petanikode.com/hacktoberfest/)
+4. [https://www.codepolitan.com/hacktoberfest](https://www.codepolitan.com/kirim-empat-pull-request-dan-dapatkan-kaos-keren-di-hacktoberfest-2017-59cfcaa8c86ea/)
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
