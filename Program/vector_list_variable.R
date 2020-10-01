@@ -21,3 +21,12 @@ print(vector3)
 
 list1 = list(1,2,3,"apple","manggo")
 print(list1)
+
+# Matrix ByRow, T mean focus to sequence row
+matrix1 = matrix(c(1,2,3,4,5,6), nrow = 2, byrow=T)
+matrix1
+
+
+# Array dim c (col,row,many)
+array1 = array(c("red", "blue", "yellow"), dim = c(2,2,4))
+print(array1)
