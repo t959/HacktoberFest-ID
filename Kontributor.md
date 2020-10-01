@@ -16,3 +16,8 @@
 - Bio: I Love Code
 - GitHub: [Rafi Firmansyah](https://github.com/rafifirmansyah)
 
+#### Nama: [Pratama Yoga](https://github.com/evanezcent)
+- Tempat: Bandung, Jawa Barat
+- Bio: No Brain Person
+- GitHub: [Rafi Firmansyah](https://github.com/evanezcent)
+
