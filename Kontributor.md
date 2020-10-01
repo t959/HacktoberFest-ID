@@ -21,3 +21,8 @@
 - Bio: No Brain Person
 - GitHub: [Rafi Firmansyah](https://github.com/evanezcent)
 
+#### Nama: [Febrian](https://github.com/febriandev)
+- Tempat: Lamongan, Jawa Timur
+- Bio: Keep Learning
+- GitHub: [Febrian](https://github.com/febriandev)
+
