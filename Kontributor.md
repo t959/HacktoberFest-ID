@@ -21,8 +21,14 @@
 - Bio: No Brain Person
 - GitHub: [Rafi Firmansyah](https://github.com/evanezcent)
 
+#### Nama: [Hermawan Arby](https://github.com/hermawanarby)
+- Tempat: Bandung, Jawa Barat
+- Bio: Mulai aja dulu!
+- GitHub: [Hermawan Arby](https://github.com/hermawanarby)
+
 #### Nama: [Alwi](https://github.com/wishihab)
 - Tempat: Banten
 - Bio: Amateur
 - Github: [Alwi](https://github.com/wishihab)
+
 
