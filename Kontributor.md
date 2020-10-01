@@ -41,7 +41,13 @@
 - Bio: I love myself
 - GitHub: [EmpalGentong](https://github.com/EmpalGentong)
 
+#### Nama: [Adif Dwi Maulana](https://github.com/adifdwimaulana)
+- Tempat: Bogor, Jawa Barat
+- Bio: Lifetime Learner
+- GitHub: [EmpalGentong](https://github.com/adifdwimaulana)
+
 #### Nama: [Justinus Hermawan](https://github.com/justinushermawan)
 - Tempat: Jakarta Barat
 - Bio: C# Coder
 - GitHub: [Justinus Hermawan](https://github.com/justinushermawan)
+
