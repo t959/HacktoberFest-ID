@@ -21,3 +21,8 @@
 - Bio: No Brain Person
 - GitHub: [Rafi Firmansyah](https://github.com/evanezcent)
 
+#### Nama: [Alwi](https://github.com/wishihab)
+- Tempat: Banten
+- Bio: Amateur
+- Github: [Alwi](https://github.com/wishihab)
+
