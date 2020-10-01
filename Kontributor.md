@@ -46,3 +46,8 @@
 - Bio: Lifetime Learner
 - GitHub: [EmpalGentong](https://github.com/adifdwimaulana)
 
+#### Nama: [Justinus Hermawan](https://github.com/justinushermawan)
+- Tempat: Jakarta Barat
+- Bio: C# Coder
+- GitHub: [Justinus Hermawan](https://github.com/justinushermawan)
+
