@@ -36,4 +36,8 @@
 - Bio: Amateur
 - Github: [Alwi](https://github.com/wishihab)
 
+#### Nama: [EmpalGentong](https://github.com/EmpalGentong)
+- Tempat: Cirebon, Jawa Barat
+- Bio: I love myself
+- GitHub: [EmpalGentong](https://github.com/EmpalGentong)
 
